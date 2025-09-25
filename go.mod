@@ -1,3 +1,3 @@
-module github.com/zhaarey/go-mp4tag
+module github.com/sky8282/go-mp4tag
 
 go 1.21.6

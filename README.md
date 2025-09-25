@@ -3,7 +3,7 @@ MP4 tag library written in Go.
 
 ### Setup
 ```
-go get github.com/zhaarey/go-mp4tag
+go get github.com/sky8282/go-mp4tag
 ```
 
 ### Usage Examples

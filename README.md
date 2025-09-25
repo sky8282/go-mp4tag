@@ -8,7 +8,7 @@ go get github.com/zhaarey/go-mp4tag
 
 ### Usage Examples
 ```go
-import "github.com/zhaarey/go-mp4tag"
+import "github.com/sky8282/go-mp4tag"
 ```
 Opening is omitted from the examples.
 ```go
